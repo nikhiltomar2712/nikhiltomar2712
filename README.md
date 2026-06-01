@@ -3,6 +3,7 @@ Hi, I'm Nikhil Tomar.
 I'm a BCA student at Amity University, Noida, and an aspiring Software Engineer. Passionate about MERN Stack, Java, DSA, and AI.
 Currently learning Japanese with the dream of working as an IT Developer in Japan 🇯🇵.
 I love building clean and efficient applications. Open to collaboration and new opportunities.
+My Resume (https://iqr.im/u77lGjL)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S8ghkzPErv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkisenpai27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-tomar27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhiltomarsan2712@gmail.com) 
