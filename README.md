@@ -26,4 +26,5 @@ Hi, I'm Nikhil Tomar. I'm a BCA student at Amity University, Noida, and an aspir
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/nikhiltomar2712/nikhiltomar2712/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nikhiltomar2712/nikhiltomar2712/blob/output/github-snake-dark.svg)
+
