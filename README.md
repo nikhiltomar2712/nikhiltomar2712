@@ -25,3 +25,5 @@ Hi, I'm Nikhil Tomar. I'm a BCA student at Amity University, Noida, and an aspir
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/YOUR_USERNAME/nikhiltomar2712/blob/output/github-contribution-grid-snake.gif)
