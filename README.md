@@ -112,10 +112,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 💻 Total Contributions (Last Year) | 399+ |
-| 📁 Repositories Created | 14+ (June 2026) |
+| 💻 Total Contributions (Last Year) | 500+ |
+| 📁 Repositories Created | 39+ |
 | 🔥 Current Streak | Building daily |
-| 🎯 Goal | 500+ contributions by July |
+| 🎯 Goal | 700+ contributions by July |
 
 ---
 
@@ -147,21 +147,6 @@
 | JLPT N3 | ✅ Complete |
 | JLPT N2 | ✅ Complete |
 | JLPT N1 | 🔄 In Progress |
-
-</div>
-
----
-
-## 🎯 Current Goals / 現在の目標
-
-<div align="center">
-
-| Goal | Deadline | Progress |
-|------|----------|----------|
-| Complete MERN full-stack project | July 2026 | 🔴 20% |
-| Pass JLPT N5 | December 2026 | 🟡 50% |
-| Land IT internship in Japan | March 2027 | 🔴 10% |
-| Build 3 portfolio projects | August 2026 | 🔴 15% |
 
 </div>
 
