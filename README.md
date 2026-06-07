@@ -139,11 +139,11 @@
 
 | Skill / スキル | Level / レベル | Status / 状態 |
 |----------------|----------------|----------------|
-| ひらがな (Hiragana) | ✅ Complete | Mastered |
-| カタカナ (Katakana) | ✅ Complete | Mastered |
-| 漢字 (Kanji) | 🔄 N5 → N4 | In Progress |
-| 文法 (Grammar) | 🔄 N5 | Learning |
-| 会話 (Conversation) | 🔄 Beginner | Practicing daily |
+| JLPT N5 | ✅ Complete |
+| JLPT N4 | ✅ Complete |
+| JLPT N3 | ✅ Complete |
+| JLPT N2 | ✅ Complete |
+| JLPT N1 | 🔄 In Progress |
 
 </div>
 
@@ -178,8 +178,8 @@
   
 ### 📫 How to reach me / 連絡先
   
-**Email:** YOUR_EMAIL@gmail.com  
-**Location:** Noida, India / ノイダ, インド 🇮🇳 → 🇯🇵
+**Email:** nikhiltomarsan@gmail.com  
+**Location:** Delhi, India / デリー, インド 🇮🇳 → 🇯🇵
 
 </div>
 
