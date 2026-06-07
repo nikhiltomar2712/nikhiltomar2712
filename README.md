@@ -24,7 +24,7 @@
 💻 **Aspiring Software Engineer** passionate about building clean, efficient applications  
 🚀 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Java, Python, DSA, HTML/CSS  
 🎯 **Current Focus:** Full-stack development + DSA problem solving (1-2 problems daily)  
-🇯🇵 **Japanese Goal:** N5 → N4 → IT Developer in Japan  
+🇯🇵 **Japanese Goal:** N2 → N1 → IT Developer in Japan  
 💡 **Open to:** Collaboration, internships, and entry-level opportunities
 
 </td>
@@ -36,7 +36,7 @@
 💻 **ソフトウェアエンジニア志望** – きれいで効率的なアプリ開発に情熱  
 🚀 **技術スタック:** MERN, Java, Python, DSA  
 🎯 **現在の目標:** フルスタック開発 + DSA問題解決（毎日1〜2問）  
-🇯🇵 **日本語の目標:** N5 → N4 → 日本でITエンジニアに  
+🇯🇵 **日本語の目標:** N2 → N1 → 日本でITエンジニアに  
 💡 **募集:** コラボレーション、インターン、エントリーレベルのポジション
 
 </td>
