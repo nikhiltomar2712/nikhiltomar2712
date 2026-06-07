@@ -137,8 +137,8 @@
 
 <div align="center">
 
-| Skill / スキル | Level / レベル | Status / 状態 |
-|----------------|----------------|----------------|
+| Level / レベル | Status / 状態 |
+|----------------|----------------|
 | JLPT N5 | ✅ Complete |
 | JLPT N4 | ✅ Complete |
 | JLPT N3 | ✅ Complete |
