@@ -1,16 +1,189 @@
-# 💫 About Me:
-Hi, I'm Nikhil Tomar. I'm a BCA student at Amity University, Noida, and an aspiring Software Engineer. Passionate about MERN Stack, Java, DSA, and AI. Currently learning Japanese with the dream of working as an IT Developer in Japan 🇯🇵. I love building clean and efficient applications. Open to collaboration and new opportunities. My Resume (https://iqr.im/u77lGjL)<br><br>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6B8A&height=120&section=header"/>
 
+# こんにちは / Hello, I'm Nikhil Tomar 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S8ghkzPErv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkisenpai27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-tomar27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikkisenpai27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Nikkisenpai27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhiltomarsan2712@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nikhiltomar2712&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikhiltomar2712&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E6B8A&center=true&vCenter=true&random=false&width=600&lines=BCA+Student+%7C+Amity+University+Noida;Aspiring+Software+Engineer;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5;Goal%3A+IT+Developer+in+Japan;MERN+%7C+Java+%7C+DSA+%7C+Python)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌟 About Me / 自己紹介
+
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+
+### 🇬🇧 English
+
+🎓 **BCA Student** at Amity University, Noida  
+💻 **Aspiring Software Engineer** passionate about building clean, efficient applications  
+🚀 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Java, Python, DSA, HTML/CSS  
+🎯 **Current Focus:** Full-stack development + DSA problem solving (1-2 problems daily)  
+🇯🇵 **Japanese Goal:** N5 → N4 → IT Developer in Japan  
+💡 **Open to:** Collaboration, internships, and entry-level opportunities
+
+</td>
+<td width="40%">
+
+### 🇯🇵 日本語
+
+🎓 **アミティ大学** BCA専攻  
+💻 **ソフトウェアエンジニア志望** – きれいで効率的なアプリ開発に情熱  
+🚀 **技術スタック:** MERN, Java, Python, DSA  
+🎯 **現在の目標:** フルスタック開発 + DSA問題解決（毎日1〜2問）  
+🇯🇵 **日本語の目標:** N5 → N4 → 日本でITエンジニアに  
+💡 **募集:** コラボレーション、インターン、エントリーレベルのポジション
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack / 技術スタック
+
+<div align="center">
+
+### Frontend / フロントエンド
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend / バックエンド
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Database & Tools / データベースとツール
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Learning / 学習中
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats / GitHub 統計
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhiltomar2712&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=0E6B8A&icon_color=0E6B8A" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltomar2712&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=0E6B8A" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiltomar2712&theme=algolia&hide_border=true&background=0D1117&stroke=0E6B8A&ring=0E6B8A&fire=0E6B8A&currStreakLabel=0E6B8A" />
+</div>
+
+---
+
+## 🏆 Featured Projects / 注目プロジェクト
+
+| Project | Description | Tech Stack |
+|---------|-------------|-------------|
+| **Kanji Master** *(Coming Soon)* | JLPT N5 flashcard app with spaced repetition / JLPT N5用単語帳アプリ | MERN + JWT |
+| **Japan Project** | Japanese learning tools collection / 日本語学習ツール集 | Python |
+| **Todo Checklist** | Task management with authentication / 認証付きタスク管理 | MERN |
+| **DSA Project 1** | Data structures & algorithms practice / データ構造とアルゴリズム練習 | Java |
+
+> 💡 *More projects pinned below! Check my "Pinned" section.*  
+> *他のプロジェクトは下のピン留めセクションをご覧ください。*
+
+---
+
+## 📈 Activity & Contributions / 活動と貢献
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhiltomar2712&theme=react-dark&bg_color=0D1117&color=0E6B8A&line=0E6B8A&point=FFFFFF&hide_border=true)
+
+</div>
+
+| Metric | Value |
+|--------|-------|
+| 💻 Total Contributions (Last Year) | 399+ |
+| 📁 Repositories Created | 14+ (June 2026) |
+| 🔥 Current Streak | Building daily |
+| 🎯 Goal | 500+ contributions by July |
+
+---
+
+## 🌐 Connect with Me / 私とつながる
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](YOUR_RESUME_LINK)
+
+</div>
+
+---
+
+## 📝 Japanese Learning Progress / 日本語学習状況
+
+<div align="center">
+
+| Skill / スキル | Level / レベル | Status / 状態 |
+|----------------|----------------|----------------|
+| ひらがな (Hiragana) | ✅ Complete | Mastered |
+| カタカナ (Katakana) | ✅ Complete | Mastered |
+| 漢字 (Kanji) | 🔄 N5 → N4 | In Progress |
+| 文法 (Grammar) | 🔄 N5 | Learning |
+| 会話 (Conversation) | 🔄 Beginner | Practicing daily |
+
+</div>
+
+---
+
+## 🎯 Current Goals / 現在の目標
+
+<div align="center">
+
+| Goal | Deadline | Progress |
+|------|----------|----------|
+| Complete MERN full-stack project | July 2026 | 🔴 20% |
+| Pass JLPT N5 | December 2026 | 🟡 50% |
+| Land IT internship in Japan | March 2027 | 🔴 10% |
+| Build 3 portfolio projects | August 2026 | 🔴 15% |
+
+</div>
+
+---
+
+## 💬 Quote I Live By / 私の座右の銘
+
+<div align="center">
+
+*"Code is like haiku — simple, elegant, and meaningful. / コードは俳句のように — シンプルで、優雅で、意味がある。"*
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📫 How to reach me / 連絡先
+  
+**Email:** YOUR_EMAIL@gmail.com  
+**Location:** Noida, India / ノイダ, インド 🇮🇳 → 🇯🇵
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6B8A&height=100&section=footer"/>
 
 ---
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
