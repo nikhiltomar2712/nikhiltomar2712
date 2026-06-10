@@ -30,26 +30,21 @@
 
 ---
 
-## ⚔️ `[ ~ ]` CYBERSECURITY ARSENAL
+### ⚔️ `[ ~ ]` CYBERSECURITY ARSENAL
 
-| **DOMAIN**              | **TECHNOLOGIES & TOOLS** |
-|-------------------------|--------------------------|
-| **🐍 Languages**        | Python, Bash, JavaScript, PowerShell, SQL |
-| **🖥️ OS & Environments**| Kali Linux, Parrot OS, Ubuntu, Windows |
-| **🔍 Recon & Scanning** | Nmap, Shodan, theHarvester, Recon-ng, Amass |
-| **💉 Exploitation**     | Metasploit, SQLMap, CrackMapExec, Impacket |
-| **🌐 Web Security**     | Burp Suite, OWASP ZAP, Nikto, Gobuster, ffuf |
-| **🔑 Password Attacks** | John the Ripper, Hashcat, Hydra |
-| **📡 Network Analysis** | Wireshark, tcpdump, Responder, Bettercap |
-| **🛡️ Defensive**       | Suricata, Snort, OSSEC, ELK Stack |
-| **🔬 Forensics**        | Autopsy, Volatility |
-| **🧰 Automation**       | Python Scripting, Docker |
-
+| **DOMAIN**                  | **TECHNOLOGIES & TOOLS** |
+|-----------------------------|--------------------------|
+| **🐍 Programming Languages**| **Python** (Primary), Bash, PowerShell, JavaScript, C/C++, Go, Ruby, SQL |
+| **🖥️ Operating Systems**   | Kali Linux, Parrot OS, Ubuntu, Windows (Active Directory) |
+| **🔍 Recon & Scanning**     | Nmap, Masscan, Shodan, theHarvester, Recon-ng, Amass |
+| **💉 Exploitation**         | Metasploit Framework, SQLMap, CrackMapExec, Impacket |
+| **🌐 Web Security**         | Burp Suite, OWASP ZAP, Nikto, Gobuster, ffuf, WPScan |
+| **🔑 Password Attacks**     | John the Ripper, Hashcat, Hydra, CeWL |
+| **📡 Network Analysis**     | Wireshark, tcpdump, Netcat, Responder, Bettercap |
+| **🛡️ Defensive Security**  | Suricata, Snort, OSSEC, ELK Stack, Splunk |
+| **🔬 Forensics & Malware**  | Autopsy, Volatility, Ghidra, Radare2, binwalk |
+| **☁️ Cloud & Automation**   | AWS Security, Azure, Docker, Python Scripting, GitHub Actions |
 ---
-
-# 💫 About Me:
-Nikhil
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/S8ghkzPErv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkisenpai27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-tomar27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikkisenpai27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Nikkisenpai27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhiltomarsan2712@gmail.com) 
@@ -64,7 +59,6 @@ Nikhil
 ---
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏴‍☠️ `[ ~ ]` ACTIVE OPERATIONS / PROJECTS
 
@@ -88,7 +82,4 @@ Would you like me to make "NIKHIL" even larger, add color effects, or change any
 
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![snake gif](https://github.com/nikhiltomar2712/nikhiltomar2712/blob/output/github-snake-dark.svg)
-
