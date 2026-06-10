@@ -1,4 +1,8 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=ffffff)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=nikhiltomar2712&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Japan%20Bound%20%F0%9F%87%AF%F0%9F%87%B5&descAlignY=58&descSize=18&descColor=0d1117&animation=twinkling)
+
+</div>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -188,6 +192,8 @@ $ ping nikhil.tomar --all-channels
 </div>
 
 ---
+
+
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
