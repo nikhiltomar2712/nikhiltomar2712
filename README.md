@@ -76,10 +76,6 @@
 
 ---
 
-**Copy the full code above** and replace your `README.md` file.
-
-Would you like me to make "NIKHIL" even larger, add color effects, or change anything else?
-
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/nikhiltomar2712/nikhiltomar2712/blob/output/github-snake-dark.svg)
