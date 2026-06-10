@@ -1,3 +1,5 @@
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=ffffff)
+
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  [SYSTEM BOOT] >> Initializing profile: nikhiltomar2712 ...       ║
