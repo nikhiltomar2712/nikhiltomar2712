@@ -1,88 +1,189 @@
-# こんにちは / Hello, I'm Nikhil Tomar 👋
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  [SYSTEM BOOT] >> Initializing profile: nikhiltomar2712 ...       ║
+║  [ACCESS GRANTED] >> Welcome to the terminal, operator.           ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-![Profile Banner](https://via.placeholder.com/800x200/0A0A0A/00FF41?text=NIK HIL+TOMAR+-+CYBER+SECURITY+ASPIRANT)  
-<!-- Replace the link above with your own banner (create one on Canva or similar with hacker/matrix theme) -->
+<div align="center">
 
----
+```bash
+$ whoami
+> nikhil_tomar | aspiring_dev | japan_bound
+```
 
-## 🛡️ About Me / 自己紹介
+# `[ NIKHIL TOMAR ]`
+### `// Security Aware Developer | MERN Stack | DSA Grinder`
 
-**Aspiring Cybersecurity Professional** | Ethical Hacker | Defensive Security Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Decoding+the+digital+world%2C+one+commit+at+a+time;BCA+%40+Amity+University%2C+Noida;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5+%7C+Targeting+Japan+IT+Sector;MERN+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+DSA)](https://git.io/typing-svg)
 
-- 🎓 **BCA Student** at Amity University, Noida
-- 🔒 Passionate about **offensive & defensive security**, web app pentesting, and secure development
-- 💻 Currently transitioning from **MERN Stack** development into **Cybersecurity**
-- 🇯🇵 **Goal**: N2 → N1 Japanese + Cybersecurity role in Japan / Global Red/Blue Team
-- 🚀 Always learning: **Python for Security**, Network Security, Vulnerability Research
+![Profile Views](https://komarev.com/ghpvc/?username=nikhiltomar2712&color=00ff41&style=flat-square&label=VISITORS)
 
-> "In cybersecurity, the best defense is a strong offense — and relentless curiosity."
-
----
-
-## 🛠️ Cyber Security Arsenal / Tech Stack
-
-### Core Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-
-### Security Tools & Frameworks
-- **Recon & Scanning**: Nmap, Gobuster, FFUF, Shodan
-- **Web App Security**: Burp Suite, OWASP ZAP, SQLMap
-- **Scripting & Automation**: Python (Scapy, Requests, Pwntools), Bash
-- **Exploitation**: Metasploit, Custom exploits
-- **Forensics & Analysis**: Wireshark, Volatility, Autopsy
-- **Cloud & DevSecOps**: Docker, AWS/Azure basics, GitHub Security
-
-**Currently Learning**: Advanced Pentesting, Malware Analysis, Red Teaming, OSCP path
+</div>
 
 ---
 
-## 📊 GitHub Stats
+```
+╔══════════════════════════════════════╗
+║     OPERATOR INTEL FILE              ║
+╚══════════════════════════════════════╝
+```
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiltomar2712&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltomar2712&layout=compact&theme=tokyonight)
+```python
+class Nikhil_Tomar:
+    def __init__(self):
+        self.alias       = "nikhiltomar2712"
+        self.location    = "New Delhi, India  🇮🇳"
+        self.clearance   = "BCA @ Amity University, Noida"
+        self.mission     = "IT Developer in Japan  🇯🇵"
+        self.languages   = ["Japanese (MOSAI - 2026)", "Python", "Java", "JavaScript"]
+        self.stack       = ["MERN", "HTML", "CSS", "DSA"]
+        self.status      = "[ACTIVE] — Grinding, Building, Learning"
+        self.doctrine    = "Discipline is my boost."
+        self.hobbies     = ["Cooking", "Organizing systems", "Exploring tech"]
 
----
-
-## 🔥 Featured Cybersecurity Projects
-
-- **Coming Soon** — **VulnHub Lab** | Automated vulnerability scanner + report generator (Python + Flask)
-- **Coming Soon** — **Port Scanner & Network Mapper** | Custom tool with Python + Scapy
-- **Web App Security Playground** — Vulnerable apps for practice (intentional flaws)
-- **Japan Learning Tools** — Python scripts + security-focused Japanese learning resources
-
-*(Pin your best repos below — focus on security-related ones)*
-
----
-
-## 🏆 Goals & Roadmap
-
-| Area                    | Current Status       | Target                  |
-|-------------------------|----------------------|-------------------------|
-| Web App Pentesting      | Beginner-Intermediate | Burp Suite Professional |
-| Python for Security     | Intermediate         | Advanced Scripting      |
-| CTFs & Bug Bounties     | Starting             | Active participation    |
-| Certifications          | In Progress          | eJPT → OSCP             |
-| Japanese Proficiency    | N2 Complete          | N1 + Technical Japanese |
-
----
-
-## 📫 Connect with Me
-
-- **Email**: [nikhiltomarsan@gmail.com](mailto:nikhiltomarsan@gmail.com)
-- **LinkedIn**: [linkedin.com/in/nikhil-tomar27](https://www.linkedin.com/in/nikhil-tomar27/)
-- **Discord**: [Join Server](https://discord.gg/S8ghkzPErv)
-- **Location**: New Delhi, India 🇮🇳 → Future: Japan 🇯🇵
+    def current_ops(self):
+        return [
+            "📡  Learning Japanese — MOSAI (Jan 2026 → Dec 2026)",
+            "🛠️  Building MERN stack projects",
+            "🔐  Strengthening DSA & Java skills",
+            "🎯  Target: Work in Japan's IT industry",
+        ]
+```
 
 ---
 
-**"The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."** — Gene Spafford
+```
+╔══════════════════════════════════════╗
+║     TECH ARSENAL / SKILL MANIFEST    ║
+╚══════════════════════════════════════╝
+```
+
+### ⚙️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Stack & Frameworks
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-*Always learning. Always hacking (ethically). Open to collaborations, bug bounty tips, and mentorship.*
+```
+╔══════════════════════════════════════╗
+║     SYSTEM DIAGNOSTICS / GITHUB STATS║
+╚══════════════════════════════════════╝
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiltomar2712&show_icons=true&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltomar2712&layout=compact&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=ffffff&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhiltomar2712&theme=dark&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&background=0d1117&sideLabels=00FF41&stroke=00FF41)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════╗
+║     ACTIVE OPERATIONS / PROJECTS     ║
+╚══════════════════════════════════════╝
+```
+
+```diff
++ [OP-01] watashi-no-nihongo
+  >> Japanese learning tracker | Status: ACTIVE
+  >> Bridging language & code on the path to Japan 🇯🇵
+
++ [OP-02] Discord-Server
+  >> Community server setup | Status: LIVE
+  >> Join: https://discord.gg/S8ghkzPErv
+
++ [OP-03] MERN Projects  
+  >> Full-stack development training | Status: IN PROGRESS
+  >> Leveling up one component at a time
+
+! [CLASSIFIED] More coming soon...
+```
+
+---
+
+```
+╔══════════════════════════════════════╗
+║     COMMUNICATION CHANNELS           ║
+╚══════════════════════════════════════╝
+```
+
+<div align="center">
+
+```bash
+$ ping nikhil.tomar --all-channels
+> [200 OK] LinkedIn    → linkedin.com/in/nikhil-tomar27
+> [200 OK] Discord     → discord.gg/S8ghkzPErv
+> [200 OK] GitHub      → github.com/nikhiltomar2712
+> [200 OK] Location    → New Delhi, India
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-tomar27)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S8ghkzPErv)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhiltomar2712)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════╗
+║     OPERATOR DOCTRINE                ║
+╚══════════════════════════════════════╝
+```
+
+<div align="center">
+
+> ```
+> ┌─────────────────────────────────────────┐
+> │                                         │
+> │   "Discipline is my boost."             │
+> │                                         │
+> │   Consistent. Focused. Building.        │
+> │   India → Japan, one commit at a time.  │
+> │                                         │
+> └─────────────────────────────────────────┘
+> ```
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  [SESSION END] >> nikhiltomar2712 | Signed off.                  ║
+║  "Building skills. Bridging India & Japan through technology."   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=ffffff)
+
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
