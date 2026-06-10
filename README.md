@@ -64,6 +64,8 @@
 
 ### 🛡️ Cybersecurity & Pentesting Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-007A00?style=for-the-badge&logo=nmap&logoColor=white)
@@ -71,7 +73,6 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=hashcat&logoColor=white)
-
 ### ☁️ DevOps & Others
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
