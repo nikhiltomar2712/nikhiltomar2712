@@ -88,20 +88,6 @@
 
 ---
 
-## 🏆 Featured Projects / 注目プロジェクト
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **Kanji Master** *(Coming Soon)* | JLPT N5 flashcard app with spaced repetition / JLPT N5用単語帳アプリ | MERN + JWT |
-| **Japan Project** | Japanese learning tools collection / 日本語学習ツール集 | Python |
-| **Todo Checklist** | Task management with authentication / 認証付きタスク管理 | MERN |
-| **DSA Project 1** | Data structures & algorithms practice / データ構造とアルゴリズム練習 | Java |
-
-> 💡 *More projects pinned below! Check my "Pinned" section.*  
-> *他のプロジェクトは下のピン留めセクションをご覧ください。*
-
----
-
 ## 📈 Activity & Contributions / 活動と貢献
 
 <div align="center">
@@ -109,13 +95,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhiltomar2712&theme=react-dark&bg_color=0D1117&color=0E6B8A&line=0E6B8A&point=FFFFFF&hide_border=true)
 
 </div>
-
-| Metric | Value |
-|--------|-------|
-| 💻 Total Contributions (Last Year) | 500+ |
-| 📁 Repositories Created | 39+ |
-| 🔥 Current Streak | Building daily |
-| 🎯 Goal | 700+ contributions by July |
 
 ---
 
@@ -132,22 +111,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S8ghkzPErv)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Nikkisenpai27)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikkisenpai27/)
-</div>
-
----
-
-## 📝 Japanese Learning Progress / 日本語学習状況
-
-<div align="center">
-
-| Level / レベル | Status / 状態 |
-|----------------|----------------|
-| JLPT N5 | ✅ Complete |
-| JLPT N4 | ✅ Complete |
-| JLPT N3 | ✅ Complete |
-| JLPT N2 | ✅ Complete |
-| JLPT N1 | 🔄 In Progress |
-
 </div>
 
 ---
