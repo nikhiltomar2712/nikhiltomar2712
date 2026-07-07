@@ -88,13 +88,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🏴‍☠️ `[ ~ ]` ACTIVE OPERATIONS / PROJECTS
-
-- **[InstaStatus-Analyzer](https://github.com/nikhiltomar2712/InstaStatus-Analyzer)**
-- **[watashi-no-nihongo](https://github.com/nikhiltomar2712/watashi-no-nihongo)**
-- More projects coming soon...
-
 ---
 
 ## 🌐 CONNECT WITH ME
