@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-blue?style=for-the-badge" alt="Location" />
 </p>
 
-[![Nikhil Tomar profile views](https://u8views.com/api/v1/github/profiles/280573981/views/day-week-month-total-count.svg)](https://u8views.com/github/nikhiltomar2712)
-
 ---
 
 ## 📡 `[ ~ ]` ABOUT THE OPERATOR
@@ -91,6 +89,8 @@
 [![](https://komarev.com/ghpvc/?username=nikhiltomar2712&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+
+[![Nikhil Tomar profile views](https://u8views.com/api/v1/github/profiles/280573981/views/day-week-month-total-count.svg)](https://u8views.com/github/nikhiltomar2712)
 
 ## 🌐 CONNECT WITH ME
 
