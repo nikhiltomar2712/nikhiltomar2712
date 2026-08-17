@@ -1,83 +1,85 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=%E2%96%B6+INITIALIZING+TERMINAL...;%E2%96%B6+nikhiltomar2712%40github%3A~%24+whoami;%E2%96%B6+USER%3A+NIKHIL;%E2%96%B6+ROLE%3A+CYBERSECURITY+ENTHUSIAST;%E2%96%B6+STATUS%3A+RED+TEAM+OPERATIVE+IN+TRAINING..." alt="Typing SVG" />
-</p>
+# こんにちは、Nikhil Tomar です 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=linux&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Active-green?style=for-the-badge" alt="Ethical Hacker" />
-  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-blue?style=for-the-badge" alt="Location" />
-</p>
+**Aspiring Software Engineer | Future IT Developer in Japan**
 
----
+<div align="center">
 
-## 📡 `[ ~ ]` ABOUT THE OPERATOR
+[![English](https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge)](#english) [![日本語](https://img.shields.io/badge/-日本語-c53030?style=for-the-badge)](#日本語)
 
-**Nikhil** | Cybersecurity Enthusiast | Ethical Hacker & Threat Hunter
-
-> "Building secure systems and breaking insecure ones. Passionate about red teaming, defensive security, and turning vulnerabilities into strengths."
-
-- **🎓 Education**: BCA @ Amity University, Noida
-- **🌍 Location**: New Delhi, India
-- **🎯 Mission**: Master offensive & defensive security | Secure applications | Contribute to the cybersecurity community
-- **🇯🇵 Side Quest**: Learning Japanese (MOSAI 2026)
-
-**Current Focus Areas**:
-- Red Teaming & Penetration Testing
-- Web Application Security
-- Network Security & Threat Hunting
-- Python for Security Automation
-- Defensive Security & Incident Response
+</div>
 
 ---
 
-### ⚔️ `[ ~ ]` CYBERSECURITY ARSENAL
+## English
 
-| **DOMAIN**                  | **TECHNOLOGIES & TOOLS** |
-|-----------------------------|-----------------------------|
-| **🐍 Programming Languages**| **Python** (Primary), Bash, PowerShell, JavaScript, C/C++, Go, Ruby, SQL |
-| **🖥️ Operating Systems**   | Kali Linux, Parrot OS, Ubuntu, Windows (Active Directory) |
-| **🔍 Recon & Scanning**     | Nmap, Masscan, Shodan, theHarvester, Recon-ng, Amass |
-| **💉 Exploitation**         | Metasploit Framework, SQLMap, CrackMapExec, Impacket |
-| **🌐 Web Security**         | Burp Suite, OWASP ZAP, Nikto, Gobuster, ffuf, WPScan |
-| **🔑 Password Attacks**     | John the Ripper, Hashcat, Hydra, CeWL |
-| **📡 Network Analysis**     | Wireshark, tcpdump, Netcat, Responder, Bettercap |
-| **🛡️ Defensive Security**  | Suricata, Snort, OSSEC, ELK Stack, Splunk |
-| **🔬 Forensics & Malware**  | Autopsy, Volatility, Ghidra, Radare2, binwalk |
-| **☁️ Cloud & Automation**   | AWS Security, Azure, Docker, Python Scripting, GitHub Actions |
+### About Me
+- Coding since 2020 | Learning from Google & Harvard
+- Interests: Software Engineering, AI, and Data Networking
+- Japanese Language Course @ 関西国際学院 (Kansai International Gakuin)
+- Computer Science Course @ 大阪情報コンピュータ専門学校 OIC (Osaka Information Computer College)
+- Goal: Work as an IT Developer in Japan
+
+### Tech Stack
+**Languages:** Java, Python, C, C++
+**Operating Systems:** Linux, Kali Linux, Arch Linux, Windows
+
+### Data Networking
+- Learning core networking fundamentals: TCP/IP, sockets, and network protocols
+- Building tools that work directly with the network layer (e.g. port scanning, traffic analysis)
+- Comfortable developing in Linux-based environments (Kali Linux, Arch Linux) for network-focused projects
+
+### Motto
+> *"Discipline is my boost."*
+
+I stay consistent and focused in coding, Japanese, and building my tech career.
+
+### Beyond Code
+- Cooking & experimenting with recipes
+- Keeping things organized and efficient
+
+### Connect
+Open to collaborations, internships, and opportunities.
+[LinkedIn](https://linkedin.com/in/nikhil-tomar27)
+
+*Building skills. Bridging India & Japan through technology.*
+
 ---
+
+## 日本語
+
+### 自己紹介
+- 2020年からプログラミングを学習中 | GoogleやHarvardの講座で学習
+- 興味分野: ソフトウェアエンジニアリング、AI、データネットワーキング
+- 関西国際学院にて日本語コースを受講
+- 大阪情報コンピュータ専門学校（OIC）にて情報処理コースを受講
+- 目標: 日本でITエンジニアとして働くこと
+
+### 技術スタック
+**プログラミング言語:** Java、Python、C、C++
+**OS:** Linux、Kali Linux、Arch Linux、Windows
+
+### データネットワーキング
+- TCP/IP、ソケット、ネットワークプロトコルなどの基礎を学習中
+- ネットワーク層を直接扱うツールを開発（例: ポートスキャナー、トラフィック解析など）
+- Linux環境（Kali Linux、Arch Linux）でのネットワーク関連の開発に慣れている
+
+### モットー
+> 「規律は私の原動力です。」
+
+コーディング、日本語学習、キャリア構築において、一貫性と集中力を保っています。
+
+### コード以外の時間
+- 料理やレシピの実験
+- 物事を整理し、効率的に保つこと
+
+### 連絡先
+コラボレーション、インターンシップ、機会を歓迎します。
+[LinkedIn](https://linkedin.com/in/nikhil-tomar27)
+
+*スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/S8ghkzPErv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkisenpai27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-tomar27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikkisenpai27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Nikkisenpai27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhiltomarsan2712@gmail.com) 
-
-# 💻 Tech Stack:
-
-### 🐍 Programming & Scripting Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🛡️ Cybersecurity & Pentesting Tools
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-007A00?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=hashcat&logoColor=white)
-### ☁️ DevOps & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 # 📊 GitHub Stats:
