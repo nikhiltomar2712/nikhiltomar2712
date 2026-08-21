@@ -84,7 +84,7 @@ Open to collaborations, internships, and opportunities.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nikhiltomar2712&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=blue-green&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=blue-green&hide_border=false&timezone=Asia/Tokyo)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikhiltomar2712&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
