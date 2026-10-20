@@ -23,6 +23,13 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/holographic-foil.svg" alt="{{Nikhil Tomar}} — {{Data Networking}} (lv.{{9}})" width="100%" />
+</p>
+
+
+---
+
 <div align="center">
 
 ![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
