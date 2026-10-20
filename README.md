@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nikhil%20Tomar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+
 # こんにちは、Nikhil Tomar です 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Nikhil+Tomar;Aspiring+Software+Engineer;Java+%7C+Python+%7C+C%2B%2B;Learning+Japanese+%26+Networking;Discipline+is+my+boost)](https://git.io/typing-svg)
