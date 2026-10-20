@@ -1,3 +1,5 @@
+![Linus Torvalds — Hacker](https://coolreadme.xyz/api/hacker?user=gaearon&status=MERGED+v6.12&accent=%2300FF88)
+
 <!-- ==================== RAINBOW + SHINE HEADER ==================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=280&section=header&text=Nikhil%20Tomar&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Future%20IT%20Developer%20in%20Japan&descAlignY=58&descSize=22&descColor=ffffff" width="100%" alt="Rainbow Shine Header"/>
