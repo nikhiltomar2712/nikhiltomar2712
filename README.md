@@ -37,7 +37,7 @@
 
 <div align="center">
   
-![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents)
+![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=nikki&tagline=building+with+agents)
 
 ---
 
