@@ -90,7 +90,7 @@ Open to collaborations, internships, and opportunities.
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nikhiltomar2712&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="Nikhil Tomar's GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=blue-green&hide_border=false&timezone=Asia/Tokyo" alt="GitHub Streak Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=blue-green&hide_border=false&timezone=Asia/Tokyo&starting_year=2020" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikhiltomar2712&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
