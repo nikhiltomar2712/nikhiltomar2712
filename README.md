@@ -21,8 +21,7 @@
 
 <br/>
 
-# こんにちは、Nikhil Tomar です 👋  
-**Aspiring Software Engineer | Future IT Developer in Japan**
+![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
@@ -122,8 +121,6 @@ Open to collaborations, internships, and opportunities.
 </div>
 
 ---
-
-![Linus Torvalds — Hacker](https://coolreadme.xyz/api/hacker?user=gaearon&status=MERGED+v6.12&accent=%2300FF88)
 
 ## 🌐 Connect With Me
 - **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikhil-tomar27/)  
