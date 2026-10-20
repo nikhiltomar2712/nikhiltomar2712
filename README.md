@@ -23,8 +23,9 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/holographic-foil.svg" alt="{{Nikhil Tomar}} — {{Data Networking}} (lv.{{9}})" width="100%" />
+<div align="center">
+  <img src="./assets/holo-card.gif" alt="Nikhil Tomar — Holographic Card" width="100%" />
+</div>
 
 ---
 
