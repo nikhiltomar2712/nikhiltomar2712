@@ -23,7 +23,8 @@
 
 ![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
 
-![Now Listening](https://coolreadme.xyz/api/now-listening?song=Let+Me+Love+you&artist=Justin+Bieber&style=spotify)
+![Now Listening](https://coolreadme.xyz/api/now-listening?song=Let+Me+Love+you&artist=Justin+Bieber&style=spotify) ![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents)
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
