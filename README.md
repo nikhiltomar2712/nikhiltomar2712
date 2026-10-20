@@ -1,15 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nikhil%20Tomar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+<!-- Animated Header with Shine/Twinkling + Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=220&section=header&text=Nikhil%20Tomar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Future%20IT%20Developer%20in%20Japan&descAlignY=55&descSize=20" alt="Header" />
+</div>
+
+<br/>
+
+<!-- Typing Animation (based on your profile data) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=こんにちは、Nikhil+Tomar+です+👋;Aspiring+Software+Engineer;Future+IT+Developer+in+Japan;Coding+since+2020+%7C+Learning+from+Google+%26+Harvard;Discipline+is+my+boost.;スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 # こんにちは、Nikhil Tomar です 👋
-
-![title](https://github-readme-title.vercel.app/api/headings/gradient?title=Nikhil%20Tomar&size=50)
-
 **Aspiring Software Engineer | Future IT Developer in Japan**
 
 <div align="center">
-
 [![English](https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge)](#english) [![日本語](https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-c53030?style=for-the-badge)](#日本語)
-
 </div>
 
 ---
@@ -85,13 +94,11 @@ Open to collaborations, internships, and opportunities.
 ---
 
 ## 🌐 Socials
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/S8ghkzPErv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkisenpai27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tomar27/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikkisenpai27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Nikkisenpai27) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhiltomarsan2712@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nikhiltomar2712&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="Nikhil Tomar's GitHub Stats" /><br/>
   <img src="https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=blue-green&hide_border=false&timezone=Asia/Tokyo&starting_year=2020" alt="GitHub Streak Stats" /><br/>
@@ -101,7 +108,6 @@ Open to collaborations, internships, and opportunities.
 ---
 
 ## 🌐 Connect With Me
-
 - **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikhil-tomar27/)
 - **Email**: [nikhiltomarsan2712@gmail.com](mailto:nikhiltomarsan2712@gmail.com)
 - **GitHub**: [nikhiltomar2712](https://github.com/nikhiltomar2712)
@@ -114,4 +120,9 @@ Open to collaborations, internships, and opportunities.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhiltomar2712/nikhiltomar2712/output/github-snake.svg">
     <img alt="GitHub Snake contribution grid animation" src="https://raw.githubusercontent.com/nikhiltomar2712/nikhiltomar2712/output/github-snake.svg">
   </picture>
+</div>
+
+<!-- Footer wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=120&section=footer" alt="Footer" />
 </div>
