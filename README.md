@@ -23,33 +23,6 @@
 
 ---
 
-name: Render holo card
-on:
-  push:
-    paths: ['assets/holo-card.svg']
-  workflow_dispatch:
-jobs:
-  render:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: sudo apt-get update && sudo apt-get install -y librsvg2-bin ffmpeg
-      - name: Render frames
-        run: |
-          mkdir -p frames
-          for i in $(seq 0 59); do
-            # resvg/librsvg don't natively seek SMIL; use a precomputed
-            # frame-per-second approach via rsvg-convert with time offset,
-            # or use `resvg` + `svg2png` with SMIL support (rsvg-convert 2.52+).
-            rsvg-convert assets/holo-card.svg -o frames/f_$(printf %03d $i).png
-          done
-      - run: ffmpeg -y -framerate 10 -i frames/f_%03d.png -vf "scale=1200:-1:flags=lanczos" assets/holo-card.gif
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: re-render holo card gif"
-
----
-
 <div align="center">
 
 ![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
