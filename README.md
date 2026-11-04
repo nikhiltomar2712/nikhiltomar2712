@@ -161,13 +161,22 @@ Open to collaborations, internships, and opportunities.
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/watashi-no-nihongo">watashi-no-nihongo</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 5</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/typingmaster">typingmaster</a></strong></p><p>A selected project from this public body of work.</p><p><sub>JavaScript · ⭐ 5</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/leetcode">leetcode</a></strong></p><p>A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2]</p><p><sub>Java · ⭐ 5</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/Shadowvault">Shadowvault</a></strong></p><p>A sleek, terminal-style password strength analyzer and secure password generator. Fully local, private, and built with a cyberpunk aesthetic.</p><p><sub>HTML · ⭐ 6</sub></p></td>
-</tr>
-</table>
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Nikhil Tomar contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Nikhil Tomar animated chess replay" />
+</picture>
+
+<div align="center">
+
+
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
