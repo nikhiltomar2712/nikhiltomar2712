@@ -1,6 +1,11 @@
 <div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=torvalds&theme=neon&role=Data%20or%20systems%20engineer&location=Portland%2C%20OR&v=readme-reference-2" width="100%" alt="NIKHIL TOMAR" />
+  
+  ### **Nikhil Tomar**
+  #### Data Engineer
+  
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=nikhiltomar2712&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
+  
+</div>
 
 <br/>
 
