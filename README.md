@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=nikhiltomar2712&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Osaka%2C%20Japan&v=readme-reference-2" width="100%" alt="Nikhil Tomar profile banner" />
+
+<br/>
 
 <div align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=こんにちは、Nikhil+Tomar+です+👋;Aspiring+Software+Engineer;Future+IT+Developer+in+Japan;Coding+since+2020+%7C+Google+%26+Harvard;Discipline+is+my+boost.;スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。&animation=rainbow&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=850&height=110&font=Fira+Code" alt="Rainbow Typing Animation"/>
