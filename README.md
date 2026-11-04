@@ -3,13 +3,8 @@
 <p><sub>WOW PROFILE · TORVALDS · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=dark" width="100%" alt="Linus Torvalds animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Backend or systems engineer</strong> · Portland, OR</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/torvalds">GitHub</a></p>
-</div>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=dark" width="100%" alt="Linus Torvalds animated Living Identity portrait and ASCII name" />
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
