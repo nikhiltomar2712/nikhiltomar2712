@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=torvalds&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR&v=readme-reference-2" width="100%" alt="Linus Torvalds profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=nikhiltomar2712&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR&v=readme-reference-2" width="100%" alt="Linus Torvalds profile banner" />
 
 <br/>
 
