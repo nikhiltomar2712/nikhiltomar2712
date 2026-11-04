@@ -12,14 +12,10 @@
 
 <br/>
 
-<!-- ==================== SECOND TYPING (PROFILE DATA) ==================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=FF6B6B&center=true&vCenter=true&width=780&lines=Java+%7C+Python+%7C+C+%7C+C%2B%2B;Linux+%7C+Kali+%7C+Arch+%7C+Networking;Learning+TCP%2FIP+%26+Sockets;Goal%3A+IT+Developer+in+Japan;Open+to+collaborations+%26+internships" alt="Typing SVG"/>
-  </a>
-</div>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Nikhil Tomar</h1>
 
-<br/>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ---
 
