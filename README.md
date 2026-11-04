@@ -1,4 +1,19 @@
 <div align="center">
+
+<p><sub>WOW PROFILE · TORVALDS · LIVE</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&variant=living-identity&label=Linus%20Torvalds&v=wow-living-identity-1&mode=dark" width="100%" alt="Linus Torvalds animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Backend or systems engineer</strong> · Portland, OR</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/nikhiltomar2712">GitHub</a></p>
+</div>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=こんにちは、Nikhil+Tomar+です+👋;Aspiring+Software+Engineer;Future+IT+Developer+in+Japan;Coding+since+2020+%7C+Google+%26+Harvard;Discipline+is+my+boost.;スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。&animation=rainbow&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=850&height=110&font=Fira+Code" alt="Rainbow Typing Animation"/>
 </div>
 
