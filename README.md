@@ -20,9 +20,10 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<div align="center">
-
-![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&label=Nikhil%20Tomar&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&label=Nikhil%20Tomar&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Nikhil Tomar animated ASCII name" />
+</picture>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
