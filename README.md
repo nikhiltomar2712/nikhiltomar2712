@@ -147,6 +147,28 @@ Open to collaborations, internships, and opportunities.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Linus Torvalds contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Linus Torvalds animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=140&section=footer&animation=twinkling" width="100%" alt="Rainbow Footer"/>
 </div>
