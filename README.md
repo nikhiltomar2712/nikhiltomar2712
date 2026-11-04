@@ -178,6 +178,31 @@ Open to collaborations, internships, and opportunities.
 </picture>
 
 <div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&repos=nikhiltomar2712%2Fwatashi-no-nihongo%2Cnikhiltomar2712%2Ftypingmaster%2Cnikhiltomar2712%2Fleetcode%2Cnikhiltomar2712%2FShadowvault&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&repos=nikhiltomar2712%2Fwatashi-no-nihongo%2Cnikhiltomar2712%2Ftypingmaster%2Cnikhiltomar2712%2Fleetcode%2Cnikhiltomar2712%2FShadowvault&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Nikhil Tomar animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&repos=nikhiltomar2712%2Fwatashi-no-nihongo%2Cnikhiltomar2712%2Ftypingmaster%2Cnikhiltomar2712%2Fleetcode%2Cnikhiltomar2712%2FShadowvault&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&repos=nikhiltomar2712%2Fwatashi-no-nihongo%2Cnikhiltomar2712%2Ftypingmaster%2Cnikhiltomar2712%2Fleetcode%2Cnikhiltomar2712%2FShadowvault&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Nikhil Tomar animated project launch timeline" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/watashi-no-nihongo">watashi-no-nihongo</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 5</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/typingmaster">typingmaster</a></strong></p><p>A selected project from this public body of work.</p><p><sub>JavaScript · ⭐ 5</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/leetcode">leetcode</a></strong></p><p>A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2]</p><p><sub>Java · ⭐ 5</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/nikhiltomar2712/Shadowvault">Shadowvault</a></strong></p><p>A sleek, terminal-style password strength analyzer and secure password generator. Fully local, private, and built with a cyberpunk aesthetic.</p><p><sub>HTML · ⭐ 6</sub></p></td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
