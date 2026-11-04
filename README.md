@@ -203,6 +203,3 @@ Open to collaborations, internships, and opportunities.
 </table>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
