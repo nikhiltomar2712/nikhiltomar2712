@@ -177,8 +177,6 @@ Open to collaborations, internships, and opportunities.
   <img src="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Linus Torvalds animated chess replay" />
 </picture>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
 <div align="center">
 <p><sub>THE NEXT SCENE</sub></p>
 
