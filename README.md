@@ -20,9 +20,16 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&label=Nikhil%20Tomar&v=cinematic-hero-wordmark-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&label=Nikhil%20Tomar&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Nikhil Tomar animated ASCII name" />
 </picture>
+
+<p><strong>Frontend or full-stack engineer</strong> · Osaka, Japan</p>
+<p>Data Networking | Living in Japan Osaka</p>
+
+<p><a href="https://github.com/nikhiltomar2712">GitHub</a></p>
+</div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
