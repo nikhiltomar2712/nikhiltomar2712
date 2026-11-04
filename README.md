@@ -8,7 +8,7 @@
 </picture>
 <p><strong>Backend or systems engineer</strong> · Portland, OR</p>
 <p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/nikhiltomar2712">GitHub</a></p>
+<p><a href="https://github.com/torvalds">GitHub</a></p>
 </div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
