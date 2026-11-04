@@ -21,26 +21,26 @@
 
 ![Animated Card](https://coolreadme.xyz/api/hacker?user=nikhiltomar2712&status=SHIPPING+CODE&accent=%2300FF88)
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
 
 ![Now Listening](https://coolreadme.xyz/api/now-listening?song=Let+Me+Love+you&artist=Justin+Bieber&style=spotify)
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
   
 ![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents)
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
   <img src="https://img.shields.io/badge/-日本語-c53030?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Japanese"/>
 </div>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## English
 
@@ -75,7 +75,7 @@ Open to collaborations, internships, and opportunities.
 
 *Building skills. Bridging India & Japan through technology.*
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 日本語
 
@@ -110,7 +110,7 @@ Open to collaborations, internships, and opportunities.
 
 *スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。*
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🌐 Socials
 <p align="center">
@@ -122,7 +122,7 @@ Open to collaborations, internships, and opportunities.
   <a href="mailto:nikhiltomarsan2712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -132,14 +132,14 @@ Open to collaborations, internships, and opportunities.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikhiltomar2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages"/>
 </div>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🌐 Connect With Me
 - **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikhil-tomar27/)  
 - **Email**: [nikhiltomarsan2712@gmail.com](mailto:nikhiltomarsan2712@gmail.com)  
 - **GitHub**: [nikhiltomar2712](https://github.com/nikhiltomar2712)  
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
   <picture>
@@ -151,7 +151,8 @@ Open to collaborations, internships, and opportunities.
 
 <br/>
 
-<!-- ==================== RAINBOW FOOTER ==================== -->
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=140&section=footer&animation=twinkling" width="100%" alt="Rainbow Footer"/>
 </div>
