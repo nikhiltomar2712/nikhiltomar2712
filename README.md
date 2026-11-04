@@ -167,8 +167,3 @@ Open to collaborations, internships, and opportunities.
 <p><sub>THE NEXT SCENE</sub></p>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=140&section=footer&animation=twinkling" width="100%" alt="Rainbow Footer"/>
-</div>
