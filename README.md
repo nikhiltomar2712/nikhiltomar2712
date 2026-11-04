@@ -10,6 +10,9 @@
 
 <br/>
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Nikhil Tomar</h1>
 
 
