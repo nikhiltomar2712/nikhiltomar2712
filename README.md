@@ -161,6 +161,4 @@ Open to collaborations, internships, and opportunities.
 
 <br/>
 
-<h2>Contribution trail</h2>
-
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
