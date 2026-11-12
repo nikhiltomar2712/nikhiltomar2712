@@ -27,12 +27,6 @@
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
-  
-![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents)
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-English-2b6cb0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
   <img src="https://img.shields.io/badge/-日本語-c53030?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Japanese"/>
 </div>
