@@ -163,20 +163,4 @@ Open to collaborations, internships, and opportunities.
 
 <h2>Contribution trail</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Nikhil Tomar contribution snake" />
-</picture>
-
-<h2>Play the next move</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=nikhiltomar2712&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F280573981%3Fu%3D55d4dd6753b2afa5249e84861e452e82e2e061ef%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Nikhil Tomar animated chess replay" />
-</picture>
-
-<div align="center">
-
-
-
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
