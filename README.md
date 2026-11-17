@@ -91,7 +91,7 @@ Open to collaborations, internships, and opportunities.
 
 ### 連絡先
 コラボレーション、インターンシップ、機会を歓迎します。  
-[LinkedIn](https://www.linkedin.com/in/nikhil-tomar27/)
+[LinkedIn](https://www.linkedin.com/in/nikisenpai27/)
 
 *スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。*
 
@@ -111,10 +111,10 @@ Open to collaborations, internships, and opportunities.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nikhiltomar2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=nikhiltomar2712&theme=radical&hide_border=false&timezone=Asia/Tokyo&starting_year=2020" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=nikkisenpai27&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=nikkisenpai27&theme=radical&hide_border=false&timezone=Asia/Tokyo&starting_year=2020" height="165" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikhiltomar2712&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikkisenpai27&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
