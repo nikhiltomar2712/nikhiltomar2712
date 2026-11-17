@@ -119,13 +119,6 @@ Open to collaborations, internships, and opportunities.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🌐 Connect With Me
-- **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikkisenpai27/)  
-- **Email**: [nikhiltomarsan2712@gmail.com](mailto:nikkisenpai557@gmail.com)  
-- **GitHub**: [nikhiltomar2712](https://github.com/nikkisenpai27)  
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikkisenpai27/nikkisenpai27/output/github-snake-dark.svg">
