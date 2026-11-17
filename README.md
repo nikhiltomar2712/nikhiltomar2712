@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=こんにちは、Nikhil+Tomar+です+👋;Aspiring+Software+Engineer;Future+IT+Developer+in+Japan;Coding+since+2020+%7C+Google+%26+Harvard;Discipline+is+my+boost.;スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。&animation=rainbow&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=850&height=110&font=Fira+Code" alt="Rainbow Typing Animation"/>
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=こんにちは、Nikki+Senpai+です+👋;Aspiring+Software+Engineer;Future+IT+Developer+in+Japan;Coding+since+2020+%7C+Google+%26+Harvard;Discipline+is+my+boost.;スキルを磨きながら、テクノロジーでインドと日本を繋ぐ。&animation=rainbow&size=26&duration=3200&pause=1000&center=true&vCenter=true&width=850&height=110&font=Fira+Code" alt="Rainbow Typing Animation"/>
 </div>
 
 <br/>
@@ -7,7 +7,7 @@
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Nikhil Tomar</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Nikki Senpai</h1>
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -56,7 +56,7 @@ I stay consistent and focused in coding, Japanese, and building my tech career.
 
 ### Connect
 Open to collaborations, internships, and opportunities.  
-[LinkedIn](https://www.linkedin.com/in/nikhil-tomar27/)
+[LinkedIn](https://www.linkedin.com/in/nikkisenpai27/)
 
 *Building skills. Bridging India & Japan through technology.*
 
@@ -120,17 +120,17 @@ Open to collaborations, internships, and opportunities.
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikhil-tomar27/)  
-- **Email**: [nikhiltomarsan2712@gmail.com](mailto:nikhiltomarsan2712@gmail.com)  
-- **GitHub**: [nikhiltomar2712](https://github.com/nikhiltomar2712)  
+- **LinkedIn**: [Nikhil Tomar](https://www.linkedin.com/in/nikkisenpai27/)  
+- **Email**: [nikhiltomarsan2712@gmail.com](mailto:nikkisenpai557@gmail.com)  
+- **GitHub**: [nikhiltomar2712](https://github.com/nikkisenpai27)  
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhiltomar2712/nikhiltomar2712/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhiltomar2712/nikhiltomar2712/output/github-snake.svg">
-    <img alt="GitHub Snake contribution grid animation" src="https://raw.githubusercontent.com/nikhiltomar2712/nikhiltomar2712/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikkisenpai27/nikkisenpai27/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikkisenpai27/nikkisenpai27/output/github-snake.svg">
+    <img alt="GitHub Snake contribution grid animation" src="https://raw.githubusercontent.com/nikkisenpai27/nikkisenpai27/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
 
